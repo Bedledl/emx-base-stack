@@ -18,5 +18,6 @@ BBLAYERS = " \
   ${SOURCES}/meta-rauc \
   ${SOURCES}/meta-common-emx \
   ${SOURCES}/meta-multiboot-update \
+  ${SOURCES}/meta-qt6 \
   ${SOURCES}/meta-custom \
 "

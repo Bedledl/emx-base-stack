@@ -26,3 +26,6 @@
 	path = sources/meta-common-emx
 	url = https://github.com/JSydll/meta-common-emx
 	branch = kirkstone
+[submodule "sources/meta-qt6"]
+	path = sources/meta-qt6
+	url = https://code.qt.io/yocto/meta-qt6.git/
