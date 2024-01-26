@@ -20,4 +20,5 @@ BBLAYERS = " \
   ${SOURCES}/meta-multiboot-update \
   ${SOURCES}/meta-qt6 \
   ${SOURCES}/meta-custom \
+  ${SOURCES}/meta-chatserver \
 "
