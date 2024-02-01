@@ -4,7 +4,7 @@ LICENSE="CLOSED"
 inherit pkgconfig cmake
 inherit qt6-cmake
 
-DEPENDS += " qtbase wayland "
+DEPENDS += " qtbase wayland libconfig "
 
 SRC_URI = "git://github.com/Bedledl/MsgServerQt.git;protocol=https;branch=master"
 S = "${WORKDIR}/git"
