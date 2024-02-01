@@ -53,6 +53,6 @@ include conf/machine/${MACHINE}-extra.conf
 # Image definitions
 #------------------
 RECOVERY_IMAGE_NAME = "custom-recovery-image"
-SYSTEM_IMAGE_NAME = "custom-system-image"
+SYSTEM_IMAGE_NAME = "chat-server-system-image"
 
 #--------------------------------------
